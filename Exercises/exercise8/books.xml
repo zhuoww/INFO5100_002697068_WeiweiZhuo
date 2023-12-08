@@ -1,0 +1,37 @@
+<?xml version = "1.0"?>
+<BookShelf>
+    <Book>
+        <title>One Hundred Years of Solitude</title>
+        <publishedYear>1967</publishedYear>
+        <numberOfPages>417</numberOfPages>
+        <authors>
+            <author>Gabriel</author>
+            <author>Garcia Marquez</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Pride and Prejudice</title>
+        <publishedYear>1813</publishedYear>
+        <numberOfPages>296</numberOfPages>
+        <authors>
+            <author>Jane Austen</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>The Great Gatsby</title>
+        <publishedYear>2006</publishedYear>
+        <numberOfPages>258</numberOfPages>
+        <authors>
+            <author>F. Scott Fitzgerald</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>This is a Test Book</title>
+        <publishedYear>2023</publishedYear>
+        <numberOfPages>300</numberOfPages>
+        <authors>
+            <author>Vivian Z.</author>
+            <author>Yun G.</author>
+        </authors>
+    </Book>
+</BookShelf>

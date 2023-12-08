@@ -1,0 +1,28 @@
+{
+  "book": [
+    {
+      "title": "Prophet Song",
+      "publishedYear": 2017,
+      "numberOfPages": 344,
+      "authors": "Paul Lynch"
+    },
+    {
+      "title": "The Bee Sting",
+      "publishedYear": 2015,
+      "numberOfPages": 211,
+      "authors": ["Murray", "Sara"]
+    },
+    {
+      "title": "If I Survive You",
+      "publishedYear": 1970,
+      "numberOfPages": 514,
+      "authors": "Jonathan"
+    },
+    {
+      "title": "This is a Test Book",
+      "publishedYear": 2020,
+      "numberOfPages": 607,
+      "authors": "Felicia"
+    }
+  ]
+}
